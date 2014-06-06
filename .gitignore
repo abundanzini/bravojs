@@ -1,7 +1,6 @@
 .DS_Store 
 tmp
 *.swp~
-L-Joe-Chellman
-HeadFirst-JS-2014
-9781430246299
-ISLJSP-code
+
+#Excercise code smples to be ignored
+ex-files/
